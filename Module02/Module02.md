@@ -34,7 +34,6 @@
 ### Практика
 
 Скачаем и установим PostgreSQL.
-[инструкции по установки Postgres](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20install%20PostgreSQL.md).
 
 ### Дополнительные материалы для изучения
 
@@ -57,7 +56,7 @@
 
 ### Практика
 
-1. Установить клиент SQL для подключения базы данных. Посмотреть [инструкции по установки DBeaver](https://github.com/Data-Learn/data-engineering/blob/master/how-to/%20How%20to%20install%20DBeaver.md). Так же можно использовать любой другой клиент для подключения к БД.
+1. Установить клиент SQL для подключения базы данных. Так же можно использовать любой другой клиент для подключения к БД.
 
 ## 2.4: Модели Данных
 
@@ -68,7 +67,7 @@
 
 ### Практика
 
-1. Необходимо нарисовать модель данных для файлика [Superstore](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls):
+1. Необходимо нарисовать модель данных для файлика Superstore:
 - Концептуальную
 - Логическую
 - Физическую
