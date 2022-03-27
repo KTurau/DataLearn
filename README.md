@@ -1,4 +1,4 @@
-# Getting Started with Data Engineering & Analytics
-- [Module 01: Modern Data Ecosystem and Role of DE](https://github.com/KTurau/DataLearn/tree/main/Module01) ![In Process](https://img.shields.io/badge/-in%20process-yellow)
-- [Module 02: RelationalDatabase and SQL](https://github.com/KTurau/DataLearn/tree/main/Module02) ![In Process](https://img.shields.io/badge/-in%20process-yellow)
+# Введение в аналитику и инжиниринг данных
+- [Модуль 01: Роль Инжиниринга Данных и Аналитики](https://github.com/KTurau/DataLearn/tree/main/Module01) ![In Process](https://img.shields.io/badge/-in%20process-yellow)
+- [Модуль 02: Реляционные Базы данных и SQL](https://github.com/KTurau/DataLearn/tree/main/Module02) ![In Process](https://img.shields.io/badge/-in%20process-yellow)
 
