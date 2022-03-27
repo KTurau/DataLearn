@@ -1,4 +1,4 @@
-## Содержание Модуля 01
+## Задания Модуля 01
 
 ### Теория
 - [Роль Инжиниринга Данных и Аналитики](https://github.com/KTurau/DataLearn/blob/main/Module01/Module01-Theory.md) 
