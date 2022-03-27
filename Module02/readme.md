@@ -1,4 +1,4 @@
-## Содержание Модуля 02
+## Задания Модуля 02
 
 ### Теория
 - [Реляционные Базы данных и SQL](https://github.com/KTurau/DataLearn/blob/main/Module02/Module02-Theory.md) 
