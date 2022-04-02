@@ -1,39 +1,35 @@
-# Модуль 1
+# Module 1
 
-## 1.1: Введение
+## 1.1: Intro
 
-Данный модуль направлен на получение теоретической базы знаний, а также на понимание роли аналитики и дата инженера в организации. Прежде чем научиться работать с инструментами очень важно понять принцип работы бизнеса, как бизнес использует данные, и как они могут быть полезны. Будут рассмотрены типовые архитектурные решения.
+Role of Analytics and Data Engineering in modern Corp (theoretical knowledge). Before learning how to work with the tools, it's very important to understand how business works/uses data to create value. Typical data infrastructure will be considered.
 
-## 1.2: Роль аналитики в организации 
+## 1.2: The Role of Analytics in Modern Corp 
 
-Организация существует для того, чтобы приносить какую-либо ценность (value). Выделяют 3 ключевых группы, кому именно может быть полезен тот или иной бизнес: 
+Corporation exists to create Value. There are 3 groups of people who can benefit from BIZ: 
 
-1. Владельцы бизнеса (shareholders); 
+1. Shareholders; 
 
-2. Сотрудники (employees); 
+2. Employees; 
 
-3. Клиенты (customers). 
+3. Customers. 
 
 
 ![Analytics Value Chain](https://rockyourdata.cloud/wp-content/uploads/2019/02/Screen-Shot-2019-02-11-at-8.58.28-PM.png)
 
-Самая важная группа это клиенты, так как многие современные компании работают по принципу "customer obsession" (одержимость клиентом).
+The most important group - customers. "customer obsession" is the main leadership principle of modern companies.
 
-Для того чтобы бизнес рос нужно создавать больше ценностей для каждой из групп. Для клиентов, например, клиентский опыт (customer experience). Для сотрудников - уровень баланса между работой и жизнью, зарплата (work life balance, salary). Для владельцев - доход (income). Для успешного роста бизнеса и выполнения своей работы все эти группы принимают решения (decision making). Для того чтобы принимать решения нужны данные (data). Данные могут быть в необработанном виде (raw data), а могут быть в виде информации (organized raw data). Одной из задач инженера данных является предоставление данных группам, которые были описаны выше для принятия дальнейших решений. Поэтому очень важно понимать, как именно работа проделанная дата инженером влияет на то, что происходит с бизнесом.
+For business, it is necessary to create more value for each of the groups. For customers - customer experience. For employees - work life balance, salary. For owners - value maximization. All these groups make decisions. Data is needed to make decisions. The data can be in raw form (raw data), or it can be in the form of information (organized raw data). Data Engineer provide data to the groups that were described above for further decision making. Therefore, it is very important to understand how data engineer affects business.
 
-## 1.3: Задачи аналитики
+## 1.3: Analytics exists: 
 
-Аналитика это такая часть бизнеса, которая использует данные для получения информации, на основе которой принимаются решения для эффективной работы бизнеса. Аналитика нужна для: 
+1. Increase income. If the analytical solution helps to make money, then everything is fine; if not, then there is a problem somewhere;
+2. Costs reduction; 
+3. New markets/products research
+4. Compliance
+5. Risk Avoidance
 
-1. Повышение доходов. Если аналитическое решение помогает зарабатывать деньги, то всё хорошо если нет, то где-то есть проблема; 
-2. Снижение расходов. Мониторинг расходов помогает экономить деньги; 
-3. Исследование новых рынков или продуктов 
-4. Соблюдение требований 
-5. Избежание рисков
-
-## 1.4: MindMap инжиниринга данных
-
-MindMap - интеллектуальная карта, инструмент визуального отображения информации. 
+## 1.4: DE MindMap 
 
 ![Mindmap](https://user-images.githubusercontent.com/65634544/83002336-4a252e80-a050-11ea-884a-aad96a181f74.jpg)
 
