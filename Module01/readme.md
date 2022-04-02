@@ -1,9 +1,9 @@
-## Задания Модуля 01
+## Module 01 (exercise)
 
-### Теория
-- [Роль Инжиниринга Данных и Аналитики](https://github.com/KTurau/DataLearn/blob/main/Module01/Module01-Theory.md) 
+### Theory
+- [Modern Data Ecosystem and Role of DE](https://github.com/KTurau/DataLearn/blob/main/Module01/Module01-Theory.md) 
 
-### Практика
+### Practise
 
-1. Установить `git` + `GitHub Desktop` + `Visual Studio`, создать аккаунт на `GitHub`**(чтобы сохр проекты в гит)** ![Ready](https://img.shields.io/badge/-ready-green)
-2. Нарисовать архитектуру аналитического решения в `draw.io` ![Ready](https://img.shields.io/badge/-ready-green) 
+1. Setup `git` + `GitHub Desktop` + `Visual Studio`; create `GitHub` account **(to save projects)** ![Ready](https://img.shields.io/badge/-ready-green)
+2. Use `draw.io` to picturize Data Infrastructure of Modern Corp ![Ready](https://img.shields.io/badge/-ready-green) 
