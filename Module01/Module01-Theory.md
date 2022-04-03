@@ -15,7 +15,7 @@ Data is growing at an unprecedented rate. Organizations that are using data to u
 
 The most important group - customers. "customer obsession" -- leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. 
 
-Corporation exists to create Value. For customers - customer experience. For employees - work/life balance, salary. For owners - value maximization. With the help of accurate/accessible data they make decisions. The job of a Data Engineer is to provide this data to help/take part in decision making process. 
+Corporation exists to create Value. For customers - customer experience. For employees - work/life balance, salary. For owners - value maximization. With the help of accurate/accessible data they make decisions. The job of a Data Engineer is to make quality data available for fact-finding and data-driven decision. 
 
 ## 1.2: Analytics, what is it for? (: 
 
@@ -30,6 +30,8 @@ BIZ realize that data holds the key to competitive advantage
 
 ![Mindmap](https://user-images.githubusercontent.com/65634544/83002336-4a252e80-a050-11ea-884a-aad96a181f74.jpg)
 
+As data has grown, so has the field of data engineering.
+
 1. Data Integration. ETL/ELT - extract, transform, load; 
 2. Data Repositories: Data Warehouse(DW); Data Platform(DP); Data Lake(DL). DP = DL + DW; 
 3. Cloud computing platforms; 
@@ -42,6 +44,8 @@ BIZ realize that data holds the key to competitive advantage
 10. Spark...
 
 ## 1.4: Key Players in Data Ecosystem (Data Professionals)
+
+Data Engineering is a team sport. No one pearson is expected to have all the knowledge, skills, and specializations required for the wide-ranging tasks covered within the scope of data engineering.
 
 ### Traditional category:
 1. Data Analyst (translate data and numbers into plain language, so organizations can make desicions);
@@ -74,13 +78,15 @@ It's not uncommon for data professionals to start their career in one of the dat
 ![Overall-Architecture](https://user-images.githubusercontent.com/65634544/83002262-2feb5080-a050-11ea-93f1-3fe6196c973a.png)
 
 **Layers:**
-1. `Collecting source data` - Data is available in a variety of structured/unstructured datasets. Pull a copy of the data from the original sources into a data repository. Extracting, integrating, and organizing data from disparate sources. Data acquisition from multiple sources. Data architecture from storing source data;
+1. `Collecting source data` - Data is available in a variety of structured/unstructured datasets. Pull a copy of the data from the original sources into a data repository. Extracting, integrating, and organizing data from disparate sources(Data acquisition from multiple sources. Data architecture from storing source data);
 
-2. `Storing data` - Raw data needs to get organized, cleaned up, optimized for access, and conform to compliances and standards enforced in the organization. Storing data for reliability and easy availability of data. Data stores for storage of processed data. Scalable systems. Ensuring data privacy, security, compliance, monitoring, backup, and recovery;
+2. `Processing data` - Cleaning, transforming, and preparing data to make it usable(Distributed systems for processing data. Pipelines for extracting, transforming, and loading data. Solutions for safeguarding quality, privacy, and security of data. Performance optimization. Adherence to compliance guidelines);
 
-3. `Business/Access data` - Business stakeholders, apps, programmers, analysts, and data science use cases all pulling data from the enterprise data repository. Making data available to users securely. APIs, services, and programs for retrieving data for end-users. User access through interfaces and dashboards. Checks and balances to ensure data security.
+3. `Storing data` - Raw data needs to get organized, cleaned up, optimized for access, and conform to compliances and standards enforced in the organization. Storing data for reliability and easy availability of data(Data stores for storage of processed data. Scalable systems. Ensuring data privacy, security, compliance, monitoring, backup, and recovery);
 
-4. `Processing data/Compute` - Cleaning, transforming, and preparing data to make it usable. Distributed systems for processing data. Pipelines for extracting, transforming, and loading data. Solutions for safeguarding quality, privacy, and security of data. Performance optimization. Adherence to compliance guidelines.
+4. `Access data` - Business stakeholders, apps, programmers, analysts, and data science use cases all pulling data from the enterprise data repository. Making data available to users securely(APIs, services, and programs for retrieving data for end-users. User access through interfaces and dashboards. Checks and balances to ensure data security).
+
+
 
 
 
