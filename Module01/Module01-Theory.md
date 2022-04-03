@@ -82,7 +82,8 @@ It's not uncommon for data professionals to start their career in one of the dat
 ![Overall-Architecture](https://user-images.githubusercontent.com/65634544/83002262-2feb5080-a050-11ea-93f1-3fe6196c973a.png)
 
 **Layers:**
-1. `Collecting source data` - Data is available in a variety of structured/unstructured datasets. Pull a copy of the data from the original sources into a data repository. Extracting, integrating, and organizing data from disparate sources(Data acquisition from multiple sources. Data architecture from storing source data);
+1. `Collecting source data` - Data is available in a variety of structured/unstructured datasets. Pull a copy of the data from the original sources into a data repository. Extracting, integrating, and organizing data from disparate sources(Data acquisition from multiple sources. Data architecture from storing source data).
+Data sources: relational/non-relational databases, APIs, web services, data streams, social platforms, and sensor devices;
 
 2. `Processing data` - Cleaning, transforming, and preparing data to make it usable(Distributed systems for processing data. Pipelines for extracting, transforming, and loading data. Solutions for safeguarding quality, privacy, and security of data. Performance optimization. Adherence to compliance guidelines);
 
