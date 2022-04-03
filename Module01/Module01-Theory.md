@@ -1,8 +1,8 @@
 # Module 1
 
-## 1.1: The Role of Analytics & DE in a Modern Enterprise 
+## 1.1: Analytics & DE in a Modern Enterprise 
 
-There are 3 main groups of people who can benefit from BIZ operations: 
+Data is growing at an unprecedented rate. Organizations that are using data to uncover opportunities and are applying that knowledge to differentiate themselves are the ones leading into the future. There are 3 main groups of people who can benefit from BIZ operations: 
 
 1. Shareholders; 
 
@@ -13,9 +13,9 @@ There are 3 main groups of people who can benefit from BIZ operations:
 
 ![Analytics Value Chain](https://rockyourdata.cloud/wp-content/uploads/2019/02/Screen-Shot-2019-02-11-at-8.58.28-PM.png)
 
-The most important group - customers. "customer obsession" -- leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
+The most important group - customers. "customer obsession" -- leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. 
 
-Corporation exists to create Value. For customers - customer experience. For employees - work/life balance, salary. For owners - value maximization. With the help of data they make decisions. Data Engineer provide data to help/take part in decision making process. The data can be in raw form (raw data), or it can be in the form of information (organized raw data).
+Corporation exists to create Value. For customers - customer experience. For employees - work/life balance, salary. For owners - value maximization. With the help of accurate/accessible data they make decisions. The job of a Data Engineer is to provide this data to help/take part in decision making process. 
 
 ## 1.2: Analytics, what is it for? (: 
 
@@ -44,13 +44,14 @@ BIZ realize that data holds the key to competitive advantage
 ## 1.4: Key Players in Data Ecosystem (Data Professionals)
 
 ### Traditional category:
-1. BI Analysts;
-2. ETL/ELT Engineer;
+1. Data Analyst (translate data and numbers into plain language, so organizations can make desicions);
+2. BI Analysts;
+3. ETL/ELT Engineer;
 4. DW Architect;
 5. Data Modeler. 
 
 ### DE category:
-1. Data Engineer;
+1. Data Engineer (develop and maintain data architecture and make data available for business operations and analysis);
 2. Big Data Engineer;
 3. Cloud Data Engineer;
 4. Data Platform Engineer.
@@ -64,20 +65,22 @@ BIZ realize that data holds the key to competitive advantage
 
 ### Advanced analytics category:
 1. Data mining;
-2. Data science.
+2. Data science (analyze data for actionable insights + create predictive models).
 
-## 1.5: Architecture of Data Engineering Field
+It's not uncommon for data professionals to start their career in one of the data roles and transition to another role within the data ecosystem by supplementing their skills.
+
+## 1.5: Enterprise Data Environment
 
 ![Overall-Architecture](https://user-images.githubusercontent.com/65634544/83002262-2feb5080-a050-11ea-93f1-3fe6196c973a.png)
 
 **Layers:**
-1. `Collecting source data Layer` - Extracting, integrating, and organizing data from disparate sources. Data acquisition from multiple sources. Data architecture from storing source data;
+1. `Collecting source data` - Data is available in a variety of structured/unstructured datasets. Pull a copy of the data from the original sources into a data repository. Extracting, integrating, and organizing data from disparate sources. Data acquisition from multiple sources. Data architecture from storing source data;
 
-2. `Storing data Layer` - Storing data for reliability and easy availability of data. Data stores for storage of processed data. Scalable systems. Ensuring data privacy, security, compliance, monitoring, backup, and recovery;
+2. `Storing data` - Raw data needs to get organized, cleaned up, optimized for access, and conform to compliances and standards enforced in the organization. Storing data for reliability and easy availability of data. Data stores for storage of processed data. Scalable systems. Ensuring data privacy, security, compliance, monitoring, backup, and recovery;
 
-3. `Business/Access Layer` - Making data available to users securely. APIs, services, and programs for retrieving data for end-users. User access through interfaces and dashboards. Checks and balances to ensure data security.
+3. `Business/Access data` - Business stakeholders, apps, programmers, analysts, and data science use cases all pulling data from the enterprise data repository. Making data available to users securely. APIs, services, and programs for retrieving data for end-users. User access through interfaces and dashboards. Checks and balances to ensure data security.
 
-4. `Processing data/Compute Layer` - Cleaning, transforming, and preparing data to make it usable. Distributed systems for processing data. Pipelines for extracting, transforming, and loading data. Solutions for safeguarding quality, privacy, and security of data. Performance optimization. Adherence to compliance guidelines.
+4. `Processing data/Compute` - Cleaning, transforming, and preparing data to make it usable. Distributed systems for processing data. Pipelines for extracting, transforming, and loading data. Solutions for safeguarding quality, privacy, and security of data. Performance optimization. Adherence to compliance guidelines.
 
 
 
