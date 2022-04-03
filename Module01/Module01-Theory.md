@@ -47,6 +47,8 @@ As data has grown, so has the field of data engineering.
 
 Data Engineering is a team sport. No one pearson is expected to have all the knowledge, skills, and specializations required for the wide-ranging tasks covered within the scope of data engineering.
 
+Not all teams and organizations need to set up an end-to-end DE practice.
+
 ### Traditional category:
 1. Data Analyst (translate data and numbers into plain language, so organizations can make desicions);
 2. BI Analysts;
