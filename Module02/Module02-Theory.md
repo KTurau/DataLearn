@@ -8,6 +8,9 @@
 Based on how well-defined the structure of the data is, data can be categorized as structured, semi-structured, or unstructured.
 The type of data drives the kind of data repositories that the data can be collected and stored in, and also the tools that can be used to query or process the data.
 
+A data engineer’s ecosystem also includes data repositories. There are two main types of data repositories—Transactional and Analytical. Transactional systems, also known as Online Transaction Processing (or OLTP) systems, are designed to store high-volume day-to-day operational data (online banking transactions, ATM transactions, and airline bookings). 
+While OLTP databases are typically relational, they can also be non-relational. Analytical systems, also known as Online Analytical Processing (OLAP) systems, are optimized for conducting complex data analytics. These include relational and non-relational databases, data warehouses, data marts, data lakes, and big data stores. The type, format, sources of data, and context of use influence which data repository is ideal. 
+
 
 
 ## 2.1 Введение
