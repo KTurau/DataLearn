@@ -1,4 +1,4 @@
-# MODULE 1
+# Module 1
 
 ## 1.1: The Role of Analytics & DE in a Modern Enterprise 
 
