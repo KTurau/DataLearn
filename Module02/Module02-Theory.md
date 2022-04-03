@@ -1,5 +1,15 @@
 # Модуль 2
 
+
+
+
+
+
+Based on how well-defined the structure of the data is, data can be categorized as structured, semi-structured, or unstructured.
+The type of data drives the kind of data repositories that the data can be collected and stored in, and also the tools that can be used to query or process the data.
+
+
+
 ## 2.1 Введение
 
 Используя базу данных, надо думать о том, как база данных может помочь эффективнее принимать бизнес-решения.
