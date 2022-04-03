@@ -15,7 +15,9 @@ Data is growing at an unprecedented rate. Organizations that are using data to u
 
 The most important group - customers. "customer obsession" -- leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. 
 
-Corporation exists to create Value. For customers - customer experience. For employees - work/life balance, salary. For owners - value maximization. With the help of accurate/accessible data they make decisions. The job of a Data Engineer is to make quality data available for fact-finding and data-driven decision. 
+Corporation exists to create Value. For customers - customer experience. For employees - work/life balance, salary. For owners - value maximization. With the help of accurate/accessible data they make decisions. The job of a Data Engineer is to make quality data available for fact-finding and data-driven decision (designing, building, maintaining data infrastructure and platforms). 
+
+In an ideal organization with the best data engineering processes, anybody can get access to any data that he or she is authorized to in a split second of time.
 
 ## 1.2: Analytics, what is it for? (: 
 
