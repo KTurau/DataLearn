@@ -26,7 +26,7 @@ Corporation exists to create Value. For customers - customer experience. For emp
 5. Risks avoidance
 BIZ realize that data holds the key to competitive advantage
 
-## 1.3: DataEngineering MindMap 
+## 1.3: Data Engineering MindMap 
 
 ![Mindmap](https://user-images.githubusercontent.com/65634544/83002336-4a252e80-a050-11ea-884a-aad96a181f74.jpg)
 
@@ -91,18 +91,18 @@ BIZ realize that data holds the key to competitive advantage
 
 **Главное не зубрежка программирования или конкретного продукта, а понимание принципов работы с данными, классов инструментов и возможных бизнес-задач и пути их решения, а для всего остального есть Google;)**
 
-## 1.7: Архитектура аналитического решения
+## 1.7: Architecture of Data Engineering Field
 
 ![Overall-Architecture](https://user-images.githubusercontent.com/65634544/83002262-2feb5080-a050-11ea-93f1-3fe6196c973a.png)
 
-**3 слоя архитектуры:**
-1. `Source Layer` - слой систем источников данных OLTP (Online Transactional Processing) - обработка транзакций; системы быстро работают на добавление данных в БД, но не рассчитаны на аналитические запросы; как правило данные создаются бизнес процессами; из первого слоя все данные поступают  в хранилище данных;
+**Layers:**
+1. `Collecting source data Layer` - Extracting, integrating, and organizing data from disparate sources. Data acquisition from multiple sources. Data architecture from storing source data;
 
-2. `Storage Layer` - хранение данных для аналитики (DW, Data Lake, Data Platform); в хранилище данных желательно иметь два слоя: Staging - копия всех данных из первого слоя вместе; BL - модель данных;
+2. `Storing data Layer` - Storing data for reliability and easy availability of data. Data stores for storage of processed data. Scalable systems. Ensuring data privacy, security, compliance, monitoring, backup, and recovery;
 
-3. `Business Layer` - слой доступа к данным для бизнес пользователей через инструменты BI (Tableau, Power BI, SAP BO, Excel, QlikView) или SQL. Происходит подключение к системам для просмотра отчётов. 
+3. `Business/Access Layer` - Making data available to users securely. APIs, services, and programs for retrieving data for end-users. User access through interfaces and dashboards. Checks and balances to ensure data security.
 
-Иногда используется ещё один слой - Processing/Compute Layer, где происходит трансформация данных перед загрузкой в хранилище.
+4. `Processing data/Compute Layer` - Cleaning, transforming, and preparing data to make it usable. Distributed systems for processing data. Pipelines for extracting, transforming, and loading data. Solutions for safeguarding quality, privacy, and security of data. Performance optimization. Adherence to compliance guidelines.
 
 
 
