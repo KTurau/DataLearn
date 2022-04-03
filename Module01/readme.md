@@ -1,7 +1,7 @@
 ## Module 01 (exercise)
 
 ### Theory
-- [Modern Data Ecosystem and Role of DE](https://github.com/KTurau/DataLearn/blob/main/Module01/Module01-Theory.md) 
+- [Intro to DE & Analytics](https://github.com/KTurau/DataLearn/blob/main/Module01/Module01-Theory.md) 
 
 ### Practise
 
