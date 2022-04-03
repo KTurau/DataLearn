@@ -1,12 +1,8 @@
-# Module 1
+# MODULE 1
 
-## 1.1: Intro
+## 1.1: The Role of Analytics & DE in a Modern Enterprise 
 
-Role of Analytics and Data Engineering in modern Corp (theoretical knowledge). Before learning how to work with the tools, it's very important to understand how business works/uses data to create value. Typical data infrastructure will be considered.
-
-## 1.2: The Role of Analytics in Modern Corp 
-
-Corporation exists to create Value. There are 3 groups of people who can benefit from BIZ: 
+There are 3 main groups of people who can benefit from BIZ operations: 
 
 1. Shareholders; 
 
@@ -17,59 +13,58 @@ Corporation exists to create Value. There are 3 groups of people who can benefit
 
 ![Analytics Value Chain](https://rockyourdata.cloud/wp-content/uploads/2019/02/Screen-Shot-2019-02-11-at-8.58.28-PM.png)
 
-The most important group - customers. "customer obsession" is the main leadership principle of modern companies.
+The most important group - customers. "customer obsession" -- leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 
-For business, it is necessary to create more value for each of the groups. For customers - customer experience. For employees - work life balance, salary. For owners - value maximization. All these groups make decisions. Data is needed to make decisions. The data can be in raw form (raw data), or it can be in the form of information (organized raw data). Data Engineer provide data to the groups that were described above for further decision making. Therefore, it is very important to understand how data engineer affects business.
+Corporation exists to create Value. For customers - customer experience. For employees - work/life balance, salary. For owners - value maximization. With the help of data they make decisions. Data Engineer provide data to help/take part in decision making process. The data can be in raw form (raw data), or it can be in the form of information (organized raw data).
 
-## 1.3: Analytics exists: 
+## 1.2: Analytics, what is it for? (: 
 
-1. Increase income. If the analytical solution helps to make money, then everything is fine; if not, then there is a problem somewhere;
+1. Income growth;
 2. Costs reduction; 
 3. New markets/products research
 4. Compliance
-5. Risk Avoidance
+5. Risks avoidance
+BIZ realize that data holds the key to competitive advantage
 
-## 1.4: DE MindMap 
+## 1.3: DataEngineering MindMap 
 
 ![Mindmap](https://user-images.githubusercontent.com/65634544/83002336-4a252e80-a050-11ea-884a-aad96a181f74.jpg)
 
-1. Интеграция данных. ETL/ELT- извлечение (extract), трансформирование (transform), загрузка (load); 
-2. Хранилище данных (Data Warehouse)/Платформа данных (Data Platform) - современное хранилище данных/Озеро данных (data lake) - файловое хранилище. Data platform = Data Lake + DW; 
-3. Облако (cloud) - облачная аналитика; 
-4. Batch - загрузка данных пачками, так работает классический ETL/ELT инструмент/Stream - непрерывный поток данных;
-5. Бизнес - аналитика (Business Intelligence) - прослойка между IT и бизнес пользователем;
-6. SQL (Structured Query Language)
-7. Языки программирования такие как: Python, Scala, Java;
-8. MPP (Massive Parallel Processing) - архитектурная особенность аналитических хранилищ данных;
+1. Data Integration. ETL/ELT - extract, transform, load; 
+2. Data Repositories: Data Warehouse(DW); Data Platform(DP); Data Lake(DL). DP = DL + DW; 
+3. Cloud computing platforms; 
+4. Batch (this is how ETL/ELT tool works) / Stream;
+5. Business Intelligence;
+6. SQL (Structured Query Language);
+7. Programming Languages: Python, Scala, Java;
+8. MPP (Massive Parallel Processing);
 9. Big Data;
-10. Spark - быстрая и универсальная платформа для обработки данных
+10. Spark...
 
-## 1.5: Основные роли в аналитике
+## 1.4: Key Players in Data Ecosystem (Data Professionals)
 
-### Традиционная категория:
-1. BI разработчик. Работа с отчётами, дашбордами, внедрением решений BI (Tableau, Power BI, SAP). Часто в обязанности входит предоставление бизнес-рекомендаций (business insights);
-2. ETL/ELT. Работа с интеграцией ("технари");
-3. Разработчик отчётов = BI инженер;
-4. DW разработчик/архитектор. Работа с решением и его архитектурой (как она выглядит и что делает);
-5. Data Modeler. Работа с бизнес-процессами организации и созданием модели данных, по которой будет создано будущее хранилище данных.
+### Traditional category:
+1. BI Analysts;
+2. ETL/ELT Engineer;
+4. DW Architect;
+5. Data Modeler. 
 
-### Категория инженера данных:
-1. Data Engineer (классическое понимание инженера данных);
-2. Big Data инженер. Работа с решениями, связанными с нереляционными БД;
-3. Cloud DE. Работа с решениями в облаке;
-4. Data Platform инженер. Работа с решениями, связанными с хранилищем данных и озером данных.
+### DE category:
+1. Data Engineer;
+2. Big Data Engineer;
+3. Cloud Data Engineer;
+4. Data Platform Engineer.
 
-### Профильная категория (Data Science, IT):
-1. Разработчик программного обеспечения (Software Development Engineer). Хорошее знание алгоритмов, структур данных. Иногда работа связана с Big Data;
-2. Machine Learning Engineer. Хорошее знание математики, программирования и библиотек, каркаса для deep learning ;
-3. Visual Engineer. Работа с визуализацией данных с использованием языков программирования.
-4. Applied Scientist 
-5. Research Scientist
+### Data Science, IT:
+1. Software Development Engineer;
+2. Machine Learning Engineer;
+3. Visual Engineer; 
+4. Applied Scientist; 
+5. Research Scientist.
 
-### Категория продвинутая аналитика (Элементы прогнозирования):
-1. Data mining. Роль до Data science;
-2. Data science. Хорошее знание математики, статистики, программирования;
-3. Аналитик данных = Data science.
+### Advanced analytics category:
+1. Data mining;
+2. Data science.
 
 ## 1.6: Два типа инженера данных
 Инженер - это профессионал, который может посмотреть на предмет и мысленно его разобрать на составные части, найти неисправность в неработающем предмете или создать новый предмет на базе требований заказчика, используя свои профессиональные инструменты. 
