@@ -1,7 +1,7 @@
 ## Module 02
 
 ### Theory
-- [Relational Databases & SQL](https://github.com/KTurau/DataLearn/blob/main/Module02/Module02-Theory.md) 
+- [Relational Database & SQL](https://github.com/KTurau/DataLearn/blob/main/Module02/Module02-Theory.md) 
 
 ### Practice
 
