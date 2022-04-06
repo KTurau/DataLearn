@@ -1,27 +1,24 @@
-# Модуль 2
+# Module 2
+
+## 2.1: Intro to Data Repositories(--> Relational Database)
+
+A data engineer’s ecosystem includes the infrastructure, tools, frameworks, and processes for: extracting data from disparate sources, architecting and managing data pipelines for transformation, integration, and storage of data, **architecting and managing data repositories**, automating and optimizing workflows and flow of data between systems; and developing applications needed through the data engineering workflow. 
+
+The type of data drives the kind of data repositories that the data can be collected and stored in, and also the tools that can be used to query or process the data. The type, format, sources of data, and context of use influence which data repository is ideal.
+
+There are two main **types of data repositories—Transactional and Analytical.** 
+Transactional systems==Online Transaction Processing(OLTP) systems, are designed to store high-volume day-to-day operational data (online banking/ATM transactions, airline bookings). Typically relational, also can be non-relational. 
+Analytical systems==Online Analytical Processing(OLAP) systems, are optimized for conducting complex data analytics (relational/non-relational DB, DW, data marts, DL, and big data stores).
+
+The ecosystem also includes languages (query languages, programming languages, and shell&scripting languages). From **querying and manipulating data with SQL** to developing data applications with Python and writing shell scripts for repetitive operational tasks.
 
 
 
 
 
 
-Based on how well-defined the structure of the data is, data can be categorized as structured, semi-structured, or unstructured.
-The type of data drives the kind of data repositories that the data can be collected and stored in, and also the tools that can be used to query or process the data.
 
-A data engineer’s ecosystem also includes data repositories. There are two main types of data repositories—Transactional and Analytical. Transactional systems, also known as Online Transaction Processing (or OLTP) systems, are designed to store high-volume day-to-day operational data (online banking transactions, ATM transactions, and airline bookings). 
-While OLTP databases are typically relational, they can also be non-relational. Analytical systems, also known as Online Analytical Processing (OLAP) systems, are optimized for conducting complex data analytics. These include relational and non-relational databases, data warehouses, data marts, data lakes, and big data stores. The type, format, sources of data, and context of use influence which data repository is ideal. 
-
-
-
-## 2.1 Введение
-
-Используя базу данных, надо думать о том, как база данных может помочь эффективнее принимать бизнес-решения.
-
-Второй модуль посвящен базам данных и SQL. БД являются основополагающими для любой аналитики. БД используются во всех организациях, чтоб собирать данных в структурированные формы.
-
-## 2.2: Что такое базы данных и как они помогают при работе с данными
-
-Самый главный навык для людей, которые занимаются аналитикой - это разобраться с SQL и базами данных. Большинство компаний используют базы данных для того, чтобы хранить данные, подключать их к бизнес приложениям, делать аналитические решения, делать Machine learning/Data Science.
+Большинство компаний используют базы данных для того, чтобы хранить данные, подключать их к бизнес приложениям, делать аналитические решения, делать Machine learning/Data Science.
 
 Прежде всего базы данных - это программа для хранения данных. Такая же программа, как операционная система, которую мы устанавливаем на компьютеры, на сервер и её основная задача — это хранение данных.
 
@@ -29,7 +26,6 @@ While OLTP databases are typically relational, they can also be non-relational. 
 Будут рассмотрены реляционные базы данных.
 Как правило, инженер данных напрямую не работает с нереляционными базами данных. Для него центр вселенной — это хранилище данных или платформа данных, куда «складываются» все данные, которые потом доступны для анализа. При этом «забирать» данные можно и из NoSQL баз данных.
 
-Пример использования нереляционных баз данных - сайт компании Abebooks, которая занимается продажей б/у книг. Весь инвентарь этого сайта, который включает в себя порядка 350 млн уникальных наименований хранится в NoSQL базе данных. Ранее данные хранились в реляционной базе данных от Oracle и были проблемы с производительностью, так как очень сложно и дорого масштабировать реляционную базу данных. Компания приняла решение мигрировать на NoSQL, где DynamoDB выступает в роли backend базы данных для веб-сайтов, в которой находится весь инвентарь компании и за счёт этого появились возможности увеличить количество инвентаря и технические проблемы больше не сдерживают рост компании. Задача инженера данных эти данные «забирать».
 
 Реляционные базы данных.
 Бочонок – самый распространённый термин, который используется во всех диаграммах для обозначения БД.
