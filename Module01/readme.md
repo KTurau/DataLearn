@@ -1,4 +1,4 @@
-## Module 01 (exercise)
+## Module 01 
 
 ### Theory
 - [Intro to DE & Analytics](https://github.com/KTurau/DataLearn/blob/main/Module01/Module01-Theory.md) 
