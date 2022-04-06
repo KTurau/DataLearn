@@ -1,9 +1,9 @@
-## Module 02 (exercise)
+## Module 02
 
 ### Theory
-- [Реляционные Базы данных и SQL](https://github.com/KTurau/DataLearn/blob/main/Module02/Module02-Theory.md) 
+- [Relational Databases & SQL](https://github.com/KTurau/DataLearn/blob/main/Module02/Module02-Theory.md) 
 
-### Practise
+### Practice
 
 1. Установить ![Ready](https://img.shields.io/badge/-ready-green)
 2. Нарисовать ![Ready](https://img.shields.io/badge/-ready-green) 
