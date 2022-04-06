@@ -5,5 +5,5 @@
 
 ### Practice
 
-1. Установить ![Ready](https://img.shields.io/badge/-ready-green)
+1. Download and Setup PostgreSQL ![Ready](https://img.shields.io/badge/-ready-green)
 2. Нарисовать ![Ready](https://img.shields.io/badge/-ready-green) 
