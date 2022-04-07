@@ -14,3 +14,5 @@
 
 
 2. Setup SQL Client **(DBeaver)** to connect DB ![Ready](https://img.shields.io/badge/-ready-green) 
+
+![DBeaver](https://github.com/KTurau/DataLearn/blob/main/Module02/Setup%20DBeaver.png)
