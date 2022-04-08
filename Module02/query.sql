@@ -8,10 +8,10 @@ Overview (обзор ключевых метрик)
 */
 
 SELECT 
-	round(SUM(sales), 0) AS Продажи,
-	round(SUM(profit), 0) AS Прибыль,
-	round(SUM(profit) / SUM(sales), 3) AS Маржа,
-	round(AVG(discount), 3) AS Скидка
+	round(SUM(sales), 0) AS Sales,
+	round(SUM(profit), 0) AS Profit,
+	round(SUM(profit) / SUM(sales), 3) AS Profit_Ratio,
+	round(AVG(discount), 3) AS Discount
 FROM
 	public.orders ord
 	LEFT JOIN public.returns ret
@@ -24,10 +24,10 @@ Profit per Order
 
 SELECT 
 	order_id,
-	round(SUM(profit), 0) AS Прибыль
+	round(SUM(profit), 0) AS Profit
 FROM public.orders
 GROUP BY order_id
-ORDER BY Прибыль DESC;
+ORDER BY Profit DESC;
 
 /*
 Sales per Customer
@@ -36,20 +36,20 @@ Sales per Customer
 SELECT 
 	customer_id,
 	customer_name,
-	round(SUM(sales), 0) AS Продажи
+	round(SUM(sales), 0) AS Sales
 FROM public.orders
 GROUP BY customer_id, customer_name
-ORDER BY Продажи DESC;
+ORDER BY Sales DESC;
 
 /*
 Monthly Sales by Segment
 */
 
 SELECT 	
-	EXTRACT(YEAR FROM order_date) AS Год,
-	EXTRACT(MONTH FROM order_date) AS Месяц,
-	segment AS Сегмент,
-	round(SUM(sales), 0) AS Продажи
+	EXTRACT(YEAR FROM order_date) AS Yeara,
+	EXTRACT(MONTH FROM order_date) AS Montha,
+	segment AS Segmenta,
+	round(SUM(sales), 0) AS Sales
 FROM public.orders
 GROUP BY 1, 2, 3
 ORDER BY 1, 2;
@@ -59,10 +59,10 @@ Monthly Sales by Product Category
 */
 
 SELECT 	
-	EXTRACT(YEAR FROM order_date) AS Год,
-	EXTRACT(MONTH FROM order_date) AS Месяц,
-	category AS Категория,
-	round(SUM(sales), 0) AS Продажи
+	EXTRACT(YEAR FROM order_date) AS Yeara,
+	EXTRACT(MONTH FROM order_date) AS Montha,
+	category AS Categor,
+	round(SUM(sales), 0) AS Sales
 FROM public.orders
 GROUP BY 1, 2, 3
 ORDER BY 1, 2;
