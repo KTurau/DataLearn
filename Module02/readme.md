@@ -21,6 +21,6 @@
 
 ![Upload data DBeaver](https://github.com/KTurau/DataLearn/blob/main/Module02/Upload%20data%20DBeaver.png)
 
-🕹 **4. Write SQL queries to overview key metrics** ![Ready](https://img.shields.io/badge/-ready-green) 
+🕹 **4. SQL queries to overview key metrics** ![Ready](https://img.shields.io/badge/-ready-green) 
 
 - [x] [query.sql](https://github.com/KTurau/DataLearn/blob/main/Module02/query.sql)
