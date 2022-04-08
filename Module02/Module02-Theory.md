@@ -1,6 +1,6 @@
 # Module 2
 
-## 2.1: Intro to Data Repositories(--> Relational Database)
+## 2.1: Intro to Data Repositories(--> RDB) and SQL
 
 A data engineer’s ecosystem includes the infrastructure, tools, frameworks, and processes for: extracting data from disparate sources, architecting and managing data pipelines for transformation, integration, and storage of data, **architecting and managing data repositories**, automating and optimizing workflows and flow of data between systems; and developing applications needed through the data engineering workflow. 
 
@@ -18,7 +18,7 @@ SQL is a querying language designed for accessing and manipulating information f
 
 SQL is portable and can be used independent of the platform It can be used for querying data in a wide variety of databases and data repositories, although each vendor may have some variations and special extensions.
 
-## 2.2: Database Connection and SQL
+## 2.2: Database Connection 
 
 1. [Practice SQL](https://towardsdatascience.com/sqlzoo-the-best-way-to-practice-sql-66b7ccb1f17a) (English)
 2. [SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics) (English)
