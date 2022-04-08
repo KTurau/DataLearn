@@ -5,7 +5,7 @@
 
 ### Practice
 
-1. Setup `git` + `Visual Studio` **(WindowsOS + LinuxOS VM)**; Create `GitHub` account **(to save projects)** ![Ready](https://img.shields.io/badge/-ready-green)
+1. Install `git` + `Visual Studio` **(WindowsOS + LinuxOS VM)**; Create `GitHub` account **(to save projects)** ![Ready](https://img.shields.io/badge/-ready-green)
 
 ![WindowsOS](https://github.com/KTurau/DataLearn/blob/main/Module01/GitHub%2BVisualStudio%20(Windows%20OS).png)
 
