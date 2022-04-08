@@ -1,6 +1,6 @@
 # Module 2
 
-## 2.1: Intro to Data Repositories(--> RDB) and SQL
+## 2.1: Data Repositories(--> RDB) and SQL
 
 A data engineer’s ecosystem includes the infrastructure, tools, frameworks, and processes for: extracting data from disparate sources, architecting and managing data pipelines for transformation, integration, and storage of data, **architecting and managing data repositories**, automating and optimizing workflows and flow of data between systems; and developing applications needed through the data engineering workflow. 
 
