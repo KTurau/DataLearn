@@ -15,4 +15,4 @@
 
 ![draw.io BankCorp](https://github.com/KTurau/DataLearn/blob/main/Module01/draw.io(BankCorp).png)
 
-![draw.io TMS Proj](https://github.com/KTurau/DataLearn/blob/main/Module01/draw.io(TMS%20Project).png)
+![draw.io DataLearn Proj](https://github.com/KTurau/DataLearn/blob/main/Module01/draw.io(DataLearn%20Project).png)
