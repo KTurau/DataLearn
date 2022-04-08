@@ -1,5 +1,5 @@
 /*
-Overview (обзор ключевых метрик)
+Overview 
 
 - Total Sales
 - Total Profit
