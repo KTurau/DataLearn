@@ -25,7 +25,7 @@
 
 - [x] [query.sql](https://github.com/KTurau/DataLearn/blob/main/Module02/query.sql)
 
-🕹 **5. Develop Database (Database Modelling)** ![Ready](https://img.shields.io/badge/-ready-green)
+🕹 **5. SQL Database Modelling in SqlDBM** ![Ready](https://img.shields.io/badge/-ready-green)
 
 **Conceptual Model**
 
@@ -38,4 +38,9 @@
 **Physical Model**
 
 ![physical model](https://github.com/KTurau/DataLearn/blob/main/Module02/Physical%20model.png)
+
+**Generate SQL(DDL) in SqlDBM + execute DDL in DBeaver**
+
+![Generate SQL(DDL)](https://github.com/KTurau/DataLearn/blob/main/Module02/Generate%20SQL%20in%20SqlDBM.png)
+
 
