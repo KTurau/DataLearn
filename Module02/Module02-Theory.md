@@ -29,12 +29,9 @@ SQL is portable and can be used independent of the platform It can be used for q
 3. [Analyze data with SQL](https://www.codecademy.com/learn/paths/analyze-data-with-sql) (English)
 4. [SQL & DB (Stanford)](https://www.edx.org/course/databases-5-sql) (English)
 
-## 2.3: Модели Данных
+## 2.3: Data Models
 
-### Дополнительные материалы для изучения
 
-1. Статья про Хранилище Данных [Антихрупкость архитектуры хранилищ данных](https://habr.com/ru/post/281553/)
-2. Статья про Data Vault [Основы Data Vault](https://habr.com/ru/post/502968/)
 
 ### Практика
 
