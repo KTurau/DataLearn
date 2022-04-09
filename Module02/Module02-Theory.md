@@ -29,20 +29,9 @@ SQL is portable and can be used independent of the platform It can be used for q
 3. [Analyze data with SQL](https://www.codecademy.com/learn/paths/analyze-data-with-sql) (English)
 4. [SQL & DB (Stanford)](https://www.edx.org/course/databases-5-sql) (English)
 
-## 2.3: Data Models
+## 2.3: Data Modelling
 
-
-
-### Практика
-
-1. Необходимо нарисовать модель данных для файлика Superstore:
-- Концептуальную
-- Логическую
-- Физическую
-  Можно использовать бесплатную версию [SqlDBM](https://sqldbm.com/Home/) или любой другой софт для создания моделей данных баз данных.
-
-2. Скопировать DDL и выполнить его в SQL клиенте.
-
+![Data Modelling Books](https://github.com/KTurau/DataLearn/blob/main/Module02/Data%20Modelling%20Books.png)
 
 
 
