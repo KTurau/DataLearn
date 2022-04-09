@@ -26,6 +26,16 @@
 - [x] [query.sql](https://github.com/KTurau/DataLearn/blob/main/Module02/query.sql)
 
 🕹 **5. Develop Database (Database Modelling)** ![Ready](https://img.shields.io/badge/-ready-green)
-- [x] [conceptual model]
-- [x] [logical model]
-- [x] [physical model]
+
+**Conceptual Model**
+
+![conceptual model](https://github.com/KTurau/DataLearn/blob/main/Module02/Conceptual_model.png)
+
+**Logical Model**
+
+![logical model](https://github.com/KTurau/DataLearn/blob/main/Module02/Logical%20model.png)
+
+**Physical Model**
+
+![physical model](https://github.com/KTurau/DataLearn/blob/main/Module02/Physical%20model.png)
+
