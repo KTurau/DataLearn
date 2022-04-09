@@ -24,3 +24,8 @@
 🕹 **4. SQL queries to overview key metrics** ![Ready](https://img.shields.io/badge/-ready-green) 
 
 - [x] [query.sql](https://github.com/KTurau/DataLearn/blob/main/Module02/query.sql)
+
+🕹 **5. Develop Database (Database Modelling)** ![Ready](https://img.shields.io/badge/-ready-green)
+- [x] [conceptual model]
+- [x] [logical model]
+- [x] [physical model]
